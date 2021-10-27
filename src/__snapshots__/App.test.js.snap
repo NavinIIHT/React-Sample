@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing test component:: render <Header /> component: 1`] = `
+Array [
+  <React.Fragment>
+    <h2>
+      This is Header
+    </h2>
+  </React.Fragment>,
+]
+`;
